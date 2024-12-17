@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eulerovka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99a3c8d8c072c389a1795a73b6e270a3413481a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eulerovka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eulerovka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
