@@ -50,12 +50,6 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
-          "dependencies": {
-            "ProjectEuler.Math": {
-              "target": "Package",
-              "version": "[1.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
